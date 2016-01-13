@@ -1,6 +1,6 @@
 # Site settings
 title: NAUGHTY CHEN
-header-img: "img/Stormstout_Brewery.jpg"
+header-img: "images/Stormstout_Brewery.jpg"
 tagline: "陈熊猫"  
 description: "事要一件一件做，书要一本一本看，游戏要一个一个玩！"  
 baseurl: ""
@@ -15,7 +15,7 @@ owner:
 
 # Data
 gavatar: http://dreamofbook.qiniudn.com/Az..png
-favicon: img/favicon.ico
+favicon: images/favicon.ico
 
 github_username: PaaandaChen  
 #weibo_username: --貓ooo  
@@ -49,7 +49,7 @@ defaults:
     values:
       layout: "post"
       author: "PandaChen"
-      header-img: "img/default.jpg" # We don't want posts without a header image, that whould mean white on white
+      header-img: "images/default.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
 comments :

@@ -2,7 +2,7 @@
 layout: page
 title: "Archive"
 description: "All posts"
-header-img: "img/default.jpg"
+header-img: "images/default.jpg"
 ---
 
 
