@@ -2,7 +2,7 @@
 layout: post
 title: Hello World
 categories: [blog ]
-tags: [生活, ]
+tags: [Life, ]
 description: This is a test post.
 ---
 
