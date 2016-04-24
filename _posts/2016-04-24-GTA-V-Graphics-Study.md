@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [转]GTAV的一帧
+title: A Frame in GTAV
 categories: [blog ]
 tags: [Gtaphics, ]
 description: 在GTAV的一帧中，引擎画了哪些东西。
