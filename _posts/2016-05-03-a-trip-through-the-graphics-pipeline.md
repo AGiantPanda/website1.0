@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 图形渲染管线之旅，第一章
+title: 图形渲染管线之旅1
 categories: [blog ]
 tags: [Gtaphics, ]
 description: 图形渲染管线之旅。
