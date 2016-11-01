@@ -5,6 +5,9 @@ description: "Hello, my friend!!!"
 header-img: "images/about.jpg"
 ---
 
+>I'm a Man of Fortune, and I must seek my Fortune.  
+-- *Henry Avery, Uncharted 4*  
+
 # Introduction
 ---
 Hi~ my name is Zhuohan Chen, you can also call me Panda.  
@@ -26,30 +29,3 @@ B.S. of Computer Science, Internet of Things.
 ---
 **VIRTUOS**, `2016.01-2016.07`  
 Software Engineer, Project on Games.
-  
-  
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
->I'm a Man of Fortune, and I must seek my Fortune.  
--- *Henry Avery, Uncharted 4*
