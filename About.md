@@ -5,9 +5,9 @@ description: "Hello, my friend!!!"
 header-img: "images/about.jpg"
 ---
 
-*Introduction*
-----
+**Introduction**
+---
 
-![avatar](./images/Zero.jpg "My Avatar")
+![avatar](images/Zero.png "My Avatar")
 
 To be continued......
