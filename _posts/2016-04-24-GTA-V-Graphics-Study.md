@@ -2,7 +2,7 @@
 layout: post
 title: GTAV中的一帧
 categories: [blog ]
-tags: [Gtaphics, ]
+tags: [Graphics, ]
 description: 在GTAV的一帧中，引擎画了哪些东西。
 header-img: "./../images/gta-v.jpg"
 ---

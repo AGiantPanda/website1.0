@@ -2,7 +2,7 @@
 layout: post
 title: 【翻译】图形渲染管线之旅，第一章
 categories: [blog ]
-tags: [Gtaphics, ]
+tags: [Graphics, ]
 description: 图形渲染管线之旅。
 header-img: "./../images/gpu_tours.jpg"
 ---
