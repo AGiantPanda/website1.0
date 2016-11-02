@@ -4,7 +4,7 @@ title: 【翻译】图形渲染管线之旅，第一章
 categories: [blog ]
 tags: [Graphics, ]
 description: 图形渲染管线之旅。
-header-img: "./../images/gta-v.jpg"
+header-img: "./../images/gpu-tours.jpg"
 ---
 
 |原文|[A Trip Through the Graphics Pipeline, part 1](https://fgiesen.wordpress.com/2011/07/01/a-trip-through-the-graphics-pipeline-2011-part-1/)|
